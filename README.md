@@ -3,3 +3,5 @@
 <center>เริ่มต้นทดลองใช้งานGithub</center>
 
 ## <center>ภาษาC</center>
+
+## <center>ภาษาJava</center>
